@@ -1,8 +1,12 @@
 # 🎥 Digital Image Processing – Video Editing System  
 
 This project was developed as my **Year 2 – Digital Image Processing Assignment**.  
-The program processes **4 input videos** (`street.mp4`, `singapore.mp4`, `traffic.mp4`, `office.mp4`) with multiple automated tasks using **OpenCV** and **NumPy**.  
-
+The program processes **4 input videos** (`street.mp4`, `singapore.mp4`, `traffic.mp4`, `office.mp4`) with multiple automated tasks using:  
+<p align="left">
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+  <a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"></a>
+  <a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"></a>
+</p>
 
 ## 🚀 Features  
 
